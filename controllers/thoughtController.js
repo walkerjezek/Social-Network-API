@@ -1,5 +1,7 @@
 const { User, Thought, Reaction } = require('../models');
 
+// Ref: mini Project
+
 module.exports = {
     // get all thoughts
     // get single thought

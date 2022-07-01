@@ -1,5 +1,7 @@
 const { User, Thought } = require('../models');
 
+// Ref: mini project
+
 module.exports = {
     // get all users
     // get singel user
